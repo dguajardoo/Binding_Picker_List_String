@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9F9B2C97-1B92-42B2-8E60-612C604998B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="qwertyui/MainPage.xaml.cs">
+    <Files>
+      <File FileName="qwertyui/MainPage.xaml" Line="15" Column="24" />
+      <File FileName="qwertyui/MainPage.xaml.cs" Line="46" Column="1" />
+      <File FileName="qwertyui/obj/Debug/qwertyui.MainPage.xaml.g.cs" Line="19" Column="1" />
+      <File FileName="qwertyui/App.xaml.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.qwertyui.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A9CC41ED-B4ED-445E-83F0-D39225DABC3C" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.qwertyui.Droid PreferredExecutionTarget="Android.3300cf452ecaa2db" />
+</Properties>
